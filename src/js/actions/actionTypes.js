@@ -1,0 +1,10 @@
+export const ADD_MOVIE = "ADD_MOVIE";
+export const EDIT_MOVIE = "EDIT_MOVIE";
+export const DELETE_MOVIE = "DELETE_MOVIE";
+export const SEARCH_MOVIE = "SEARCH_MOVIE";
+export const SEARCH_RATING = "SEARCH_RATING";
+export const EDIT_INPUT_HANDLER = "EDIT_INPUT_HANDLER";
+export const EDIT_HANDLER = "EDIT_HANDLER";
+export const SAVE_EDIT = "SAVE_EDIT";
+export const PATH_HANDLER = "PATH_HANDLER";
+export const PATH_BACK = "PATH_BACK";
